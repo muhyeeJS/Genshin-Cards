@@ -19,7 +19,7 @@ if(localStorage.getItem('isFeaturedFive') === null || localStorage.getItem('isFe
   localStorage.setItem('fourStarPity', 0);
 }
 // Set the date we're counting down to
-var countDownDate = new Date("Aug 2, 2022 17:59:59").getTime();
+var countDownDate = new Date("Jan 2, 2024 17:59:59").getTime();
 // Update the count down every 1 second
 var x = setInterval(function() {
   // Get today's date and time
